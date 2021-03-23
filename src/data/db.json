@@ -1,0 +1,504 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "location": "Bergerac",
+      "latitude": 44.8529367,
+      "longitude": 0.4881056,
+      "col1": 238,
+      "col2": 662,
+      "col3": 191,
+      "col4": 350
+    },
+    {
+      "id": 2,
+      "location": "Burlatskoye",
+      "latitude": 45.056443,
+      "longitude": 43.6468877,
+      "col1": 714,
+      "col2": 113,
+      "col3": 472,
+      "col4": 933
+    },
+    {
+      "id": 3,
+      "location": "Jingzhou",
+      "latitude": 30.335237,
+      "longitude": 112.239631,
+      "col1": 797,
+      "col2": 75,
+      "col3": 250,
+      "col4": 526
+    },
+    {
+      "id": 4,
+      "location": "Kutloanong",
+      "latitude": -26.1597581,
+      "longitude": 27.7767972,
+      "col1": 488,
+      "col2": 845,
+      "col3": 130,
+      "col4": 879
+    },
+    {
+      "id": 5,
+      "location": "Centurion",
+      "latitude": -25.8664184,
+      "longitude": 28.1678543,
+      "col1": 184,
+      "col2": 57,
+      "col3": 479,
+      "col4": 520
+    },
+    {
+      "id": 6,
+      "location": "Tilburg",
+      "latitude": 51.5742615,
+      "longitude": 5.0840393,
+      "col1": 257,
+      "col2": 216,
+      "col3": 334,
+      "col4": 224
+    },
+    {
+      "id": 7,
+      "location": "Maroanging",
+      "latitude": -4.6589357,
+      "longitude": 120.3594043,
+      "col1": 826,
+      "col2": 598,
+      "col3": 57,
+      "col4": 950
+    },
+    {
+      "id": 8,
+      "location": "Nunbaundelha",
+      "latitude": -10.1748845,
+      "longitude": 123.5714032,
+      "col1": 240,
+      "col2": 870,
+      "col3": 838,
+      "col4": 580
+    },
+    {
+      "id": 9,
+      "location": "Oulad Frej",
+      "latitude": 32.9547248,
+      "longitude": -8.216481,
+      "col1": 308,
+      "col2": 862,
+      "col3": 331,
+      "col4": 852
+    },
+    {
+      "id": 10,
+      "location": "Bellavista",
+      "latitude": 19.3972335,
+      "longitude": -99.1933664,
+      "col1": 687,
+      "col2": 150,
+      "col3": 752,
+      "col4": 446
+    },
+    {
+      "id": 11,
+      "location": "Butel",
+      "latitude": 41.9924293,
+      "longitude": 21.4298411,
+      "col1": 16,
+      "col2": 568,
+      "col3": 700,
+      "col4": 567
+    },
+    {
+      "id": 12,
+      "location": "Bulan",
+      "latitude": 12.6703542,
+      "longitude": 123.8732551,
+      "col1": 875,
+      "col2": 845,
+      "col3": 692,
+      "col4": 387
+    },
+    {
+      "id": 13,
+      "location": "Gucheng",
+      "latitude": 37.347409,
+      "longitude": 115.965874,
+      "col1": 602,
+      "col2": 102,
+      "col3": 249,
+      "col4": 835
+    },
+    {
+      "id": 14,
+      "location": "Huangzhan",
+      "latitude": 25.234479,
+      "longitude": 110.179953,
+      "col1": 12,
+      "col2": 771,
+      "col3": 422,
+      "col4": 410
+    },
+    {
+      "id": 15,
+      "location": "Jiamaogong",
+      "latitude": 35.095709,
+      "longitude": 103.043929,
+      "col1": 710,
+      "col2": 116,
+      "col3": 821,
+      "col4": 459
+    },
+    {
+      "id": 16,
+      "location": "Bagan",
+      "latitude": 54.0984453,
+      "longitude": 77.6793844,
+      "col1": 227,
+      "col2": 249,
+      "col3": 124,
+      "col4": 646
+    },
+    {
+      "id": 17,
+      "location": "Tyresö",
+      "latitude": 59.2452899,
+      "longitude": 18.2238211,
+      "col1": 97,
+      "col2": 209,
+      "col3": 547,
+      "col4": 828
+    },
+    {
+      "id": 18,
+      "location": "Deventer",
+      "latitude": 52.2424706,
+      "longitude": 6.2281859,
+      "col1": 748,
+      "col2": 660,
+      "col3": 988,
+      "col4": 909
+    },
+    {
+      "id": 19,
+      "location": "Krajan",
+      "latitude": -7.5450262,
+      "longitude": 111.6556388,
+      "col1": 760,
+      "col2": 418,
+      "col3": 100,
+      "col4": 845
+    },
+    {
+      "id": 20,
+      "location": "Sida",
+      "latitude": 15.5651234,
+      "longitude": 102.5814416,
+      "col1": 772,
+      "col2": 69,
+      "col3": 931,
+      "col4": 806
+    },
+    {
+      "id": 21,
+      "location": "Heřmanova Huť",
+      "latitude": 49.7165109,
+      "longitude": 13.0706469,
+      "col1": 313,
+      "col2": 130,
+      "col3": 795,
+      "col4": 304
+    },
+    {
+      "id": 22,
+      "location": "Karlsruhe",
+      "latitude": 48.9728482,
+      "longitude": 8.4060268,
+      "col1": 135,
+      "col2": 539,
+      "col3": 566,
+      "col4": 900
+    },
+    {
+      "id": 23,
+      "location": "Pedro Miguel",
+      "latitude": 38.579965,
+      "longitude": -28.618829,
+      "col1": 854,
+      "col2": 698,
+      "col3": 46,
+      "col4": 830
+    },
+    {
+      "id": 24,
+      "location": "Dachnoye",
+      "latitude": 53.4445864,
+      "longitude": 58.9216772,
+      "col1": 379,
+      "col2": 42,
+      "col3": 546,
+      "col4": 751
+    },
+    {
+      "id": 25,
+      "location": "Dalmatovo",
+      "latitude": 56.2656262,
+      "longitude": 62.946875,
+      "col1": 597,
+      "col2": 732,
+      "col3": 585,
+      "col4": 704
+    },
+    {
+      "id": 26,
+      "location": "Áyios Vasílios",
+      "latitude": 37.7937857,
+      "longitude": 22.8003951,
+      "col1": 754,
+      "col2": 7,
+      "col3": 651,
+      "col4": 183
+    },
+    {
+      "id": 27,
+      "location": "Tingloy",
+      "latitude": 13.6690327,
+      "longitude": 120.8546864,
+      "col1": 411,
+      "col2": 414,
+      "col3": 653,
+      "col4": 134
+    },
+    {
+      "id": 28,
+      "location": "Dongmazar",
+      "latitude": 43.82551,
+      "longitude": 81.872025,
+      "col1": 28,
+      "col2": 179,
+      "col3": 713,
+      "col4": 35
+    },
+    {
+      "id": 29,
+      "location": "Vanimo",
+      "latitude": -2.6896767,
+      "longitude": 141.2998457,
+      "col1": 96,
+      "col2": 966,
+      "col3": 316,
+      "col4": 856
+    },
+    {
+      "id": 30,
+      "location": "Qingquan",
+      "latitude": 27.7303815,
+      "longitude": 112.0069982,
+      "col1": 669,
+      "col2": 282,
+      "col3": 365,
+      "col4": 432
+    },
+    {
+      "id": 31,
+      "location": "Przytyk",
+      "latitude": 51.4617501,
+      "longitude": 20.9131216,
+      "col1": 953,
+      "col2": 490,
+      "col3": 873,
+      "col4": 560
+    },
+    {
+      "id": 32,
+      "location": "Chahannao",
+      "latitude": 39.0865525,
+      "longitude": 107.9808971,
+      "col1": 731,
+      "col2": 435,
+      "col3": 230,
+      "col4": 579
+    },
+    {
+      "id": 33,
+      "location": "Nova Kakhovka",
+      "latitude": 46.7515251,
+      "longitude": 33.3678207,
+      "col1": 136,
+      "col2": 24,
+      "col3": 141,
+      "col4": 921
+    },
+    {
+      "id": 34,
+      "location": "Pinheiro",
+      "latitude": 42.0876245,
+      "longitude": -8.2745719,
+      "col1": 1,
+      "col2": 674,
+      "col3": 118,
+      "col4": 924
+    },
+    {
+      "id": 35,
+      "location": "Molsheim",
+      "latitude": 48.5372073,
+      "longitude": 7.5002842,
+      "col1": 390,
+      "col2": 881,
+      "col3": 151,
+      "col4": 145
+    },
+    {
+      "id": 36,
+      "location": "Linshui",
+      "latitude": 30.334768,
+      "longitude": 106.93038,
+      "col1": 237,
+      "col2": 871,
+      "col3": 65,
+      "col4": 381
+    },
+    {
+      "id": 37,
+      "location": "Grzybowa Góra",
+      "latitude": 51.9695974,
+      "longitude": 15.5383803,
+      "col1": 448,
+      "col2": 544,
+      "col3": 12,
+      "col4": 607
+    },
+    {
+      "id": 38,
+      "location": "Cinunjang",
+      "latitude": -7.4250762,
+      "longitude": 108.2822389,
+      "col1": 623,
+      "col2": 991,
+      "col3": 386,
+      "col4": 399
+    },
+    {
+      "id": 39,
+      "location": "Basco",
+      "latitude": 20.448773,
+      "longitude": 121.9685567,
+      "col1": 190,
+      "col2": 999,
+      "col3": 422,
+      "col4": 934
+    },
+    {
+      "id": 40,
+      "location": "Ungca",
+      "latitude": 15.1585322,
+      "longitude": 120.6299566,
+      "col1": 75,
+      "col2": 488,
+      "col3": 722,
+      "col4": 119
+    },
+    {
+      "id": 41,
+      "location": "Singgugu",
+      "latitude": -7.1398,
+      "longitude": 108.3549,
+      "col1": 521,
+      "col2": 264,
+      "col3": 839,
+      "col4": 144
+    },
+    {
+      "id": 42,
+      "location": "Rakaia",
+      "latitude": -43.7567555,
+      "longitude": 172.0223196,
+      "col1": 85,
+      "col2": 33,
+      "col3": 267,
+      "col4": 642
+    },
+    {
+      "id": 43,
+      "location": "Pawłowiczki",
+      "latitude": 50.2461852,
+      "longitude": 18.0486064,
+      "col1": 254,
+      "col2": 694,
+      "col3": 338,
+      "col4": 21
+    },
+    {
+      "id": 44,
+      "location": "Mitake",
+      "latitude": 34.1926332,
+      "longitude": 131.9199103,
+      "col1": 805,
+      "col2": 865,
+      "col3": 471,
+      "col4": 12
+    },
+    {
+      "id": 45,
+      "location": "Antagan Segunda",
+      "latitude": 17.28268,
+      "longitude": 121.87153,
+      "col1": 694,
+      "col2": 986,
+      "col3": 430,
+      "col4": 735
+    },
+    {
+      "id": 46,
+      "location": "San Diego",
+      "latitude": 14.0523794,
+      "longitude": -86.4478279,
+      "col1": 962,
+      "col2": 981,
+      "col3": 371,
+      "col4": 320
+    },
+    {
+      "id": 47,
+      "location": "Rząśnik",
+      "latitude": 52.6960785,
+      "longitude": 21.3639876,
+      "col1": 278,
+      "col2": 286,
+      "col3": 660,
+      "col4": 805
+    },
+    {
+      "id": 48,
+      "location": "Cachoeirinha",
+      "latitude": -6.0768719,
+      "longitude": -47.8032284,
+      "col1": 236,
+      "col2": 105,
+      "col3": 670,
+      "col4": 205
+    },
+    {
+      "id": 49,
+      "location": "Rama",
+      "latitude": 12.1630333,
+      "longitude": -84.2199753,
+      "col1": 924,
+      "col2": 765,
+      "col3": 478,
+      "col4": 944
+    },
+    {
+      "id": 50,
+      "location": "Aykhal",
+      "latitude": 65.9338,
+      "longitude": 111.4834,
+      "col1": 468,
+      "col2": 814,
+      "col3": 996,
+      "col4": 48
+    }
+  ]
+}
